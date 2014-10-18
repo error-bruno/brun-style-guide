@@ -1,4 +1,4 @@
-# Brunner JavaScript Style Guide() {
+# JavaScript Style Guide() {
 
 *Based off of Airbnb Style Guide*
 
