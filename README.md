@@ -1,7 +1,5 @@
 # JavaScript Style Guide() {
 
-*Based off of Airbnb Style Guide*
-
 
 ## Table of Contents
 
